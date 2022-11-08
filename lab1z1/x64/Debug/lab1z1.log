@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+D:\Інформатика\C++\lab1z1\MyForm.h(126,84): error C2039: "radioButton1_CheckedChanged_1": не является членом "lab1z1::MyForm".
+D:\Інформатика\C++\lab1z1\MyForm.h(15): message : см. объявление "lab1z1::MyForm"
+D:\Інформатика\C++\lab1z1\MyForm.h(126,1): error C2065: radioButton1_CheckedChanged_1: необъявленный идентификатор
+D:\Інформатика\C++\lab1z1\MyForm.h(126,1): error C3924: ошибка в аргументе #2 вызова конструктора делегата "System::EventHandler":
+D:\Інформатика\C++\lab1z1\MyForm.h(126,1): message : требуется указатель на функцию-член
