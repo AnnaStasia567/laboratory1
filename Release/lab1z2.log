@@ -1,0 +1,18 @@
+﻿  MyForm1.cpp
+D:\Інформатика\C++\lab1z2\MyForm1.cpp(8,32): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  MyForm2.cpp
+D:\Інформатика\C++\lab1z2\MyForm2.cpp(7,32): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  MyForm3.cpp
+D:\Інформатика\C++\lab1z2\MyForm3.cpp(7,32): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  MyForm4.cpp
+D:\Інформатика\C++\lab1z2\MyForm4.cpp(8,32): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  MyForm5.cpp
+D:\Інформатика\C++\lab1z2\MyForm5.cpp(7,32): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+MyForm1.obj : error LNK2005: "void __clrcall main(cli::array<System::PE$AAVString >^)" (?main@@$$HYMXP$01EAPE$AAVString@System@@@Z) уже определен в MyForm.obj
+MyForm2.obj : error LNK2005: "void __clrcall main(cli::array<System::PE$AAVString >^)" (?main@@$$HYMXP$01EAPE$AAVString@System@@@Z) уже определен в MyForm.obj
+MyForm3.obj : error LNK2005: "void __clrcall main(cli::array<System::PE$AAVString >^)" (?main@@$$HYMXP$01EAPE$AAVString@System@@@Z) уже определен в MyForm.obj
+MyForm4.obj : error LNK2005: "void __clrcall main(cli::array<System::PE$AAVString >^)" (?main@@$$HYMXP$01EAPE$AAVString@System@@@Z) уже определен в MyForm.obj
+MyForm5.obj : error LNK2005: "void __clrcall main(cli::array<System::PE$AAVString >^)" (?main@@$$HYMXP$01EAPE$AAVString@System@@@Z) уже определен в MyForm.obj
+LINK : fatal error LNK1561: точка входа должна быть определена
